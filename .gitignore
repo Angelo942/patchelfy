@@ -1,0 +1,6 @@
+build/*
+dist/*
+patchelfy.egg-info/*
+patchelfy/__pycache__/*
+patchelfy/patchelfy_dev.py
+test/*
